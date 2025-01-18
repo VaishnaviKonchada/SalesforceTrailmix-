@@ -42,3 +42,17 @@ Features images related to user roles, profiles, and access permissions configur
 Videos/
 Holds preview images of demonstration videos, offering a glimpse into the Salesforce solution’s functionality.
 
+Additional Resources
+
+Demo
+Explore the demo video of the project, showcasing its key functionalities:
+https://drive.google.com/file/d/1V26i5xK0e5pG2iFFmJD4oRQ7EG5MZWWD/view?usp=sharing
+
+Documentation
+Access detailed project documentation for in-depth understanding:
+https://drive.google.com/file/d/1NCXMq_DUBNjiwK-JcfU8aLzWrMSwx3vD/view?usp=sharing
+
+
+
+
+
